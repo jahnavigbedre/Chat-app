@@ -1,0 +1,6 @@
+pip install flask flask-socketio eventlet (bash)
+
+(txt)
+flask
+flask-socketio
+eventlet
