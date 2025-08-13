@@ -29,7 +29,7 @@ A modern, real-time **disposable chat room** built with Flask and Socket.IO feat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/uselessbruh/minimal-chat.git
+   git clone https://github.com/jahnavigbedre/minimal-chat.git
    cd Chat-app
    ```
 
@@ -206,8 +206,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abhijith Krishna G**
-- GitHub: [@uselessbruh](https://github.com/uselessbruh)
+**Jahnavi G Bedre**
+- GitHub: [@jahnavigbedre](https://github.com/jahnavigbedre)
 
 ## 🙏 Acknowledgments
 
